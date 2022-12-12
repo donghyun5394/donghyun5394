@@ -6,7 +6,7 @@
 ✔️  저에 대해 궁금하시다면, 제 포트폴리오를 방문해주세요. </br>
 
 
-🛠  Trophy States </br>
+<h2>🛠  Trophy States </h2> </br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=donghyun5394)](https://github.com/ryo-ma/github-profile-trophy)
 
 🛠  Technical Skills </br>
