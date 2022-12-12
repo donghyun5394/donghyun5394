@@ -5,10 +5,15 @@
 ✔️  기술을 공부하고 공유하며 함께 성장하는 삶을 지향합니다. </br>
 ✔️  저에 대해 궁금하시다면, 제 포트폴리오를 방문해주세요. </br>
 
+
+🛠  Trophy States </br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=donghyun5394)](https://github.com/ryo-ma/github-profile-trophy)
 
 🛠  Technical Skills </br>
-
+Spring  JavaScript  Node.js  Bootstrap  HTML  CSS 
+Python  Django  Flask 
+Git  GitHub  Markdown  Visual Studio Code 
+Photoshop  Figma 
 💻  GitHub Analytics </br>
 ![donghyun5394's github stats](https://github-readme-stats.vercel.app/api?username=donghyun5394&show_icons=true)
 [![donghyun5394's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=donghyun5394&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/donghyun5394)
