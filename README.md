@@ -7,5 +7,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=donghyun5394)](https://github.com/ryo-ma/github-profile-trophy)
 
+🛠  Technical Skills </br>
+
+💻  GitHub Analytics </br>
 ![donghyun5394's github stats](https://github-readme-stats.vercel.app/api?username=donghyun5394&show_icons=true)
 [![donghyun5394's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=donghyun5394&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/donghyun5394)
