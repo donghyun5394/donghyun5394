@@ -10,6 +10,7 @@
 
 [![Ashutosh's github activity graph]([https://activity-graph.herokuapp.com/graph](https://github-readme-activity-graph.cyclic.app.)?username=dkssud8150&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![Ashutosh's github activity graph]((https://github-readme-activity-graph.cyclic.app.?username=dkssud8150&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3>🛠  Trophy States </h2> </br>
 
