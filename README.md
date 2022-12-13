@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
 👋  풀스택 개발자 김동현입니다. ☺️ </br>
 ✔️  스타트업 환경에 맞는 빠른 주기 개발, 특히 자바 환경에 익숙합니다.</br>
