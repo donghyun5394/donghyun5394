@@ -17,7 +17,7 @@
 
 <h3> 🛠  Technical Skills </h3> </br>
 
-<a href="[버튼을 눌렀을 때 이동할 링크](https://jungle-hornet-274.notion.site/7c95cc193de04416b5ed6f16f9c851b9)" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=#000000"/></a>
+<a href="https://jungle-hornet-274.notion.site/7c95cc193de04416b5ed6f16f9c851b9" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=#000000"/></a>
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
