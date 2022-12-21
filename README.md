@@ -22,6 +22,8 @@ Photoshop  Figma </br>
 
 <h3>💻  GitHub Analytics </h3> </br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donghyun5394&show_icons=true&theme=tokyonight)
+
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donghyun5394&exclude_repo=donghyun5394.github.io&layout=compact&theme=tokyonight" />
 </a>
