@@ -13,7 +13,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3>🛠  Trophy States </h2> </br>
+<h3> :hammer:  Trophy States </h2> </br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=donghyun5394&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
