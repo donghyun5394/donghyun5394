@@ -17,8 +17,7 @@
 
 <h3> 🛠  Technical Skills </h3> </br>
 Spring  JavaScript  Node.js  Bootstrap  HTML  CSS 
-Python  Django  Flask 
-Git  GitHub  Markdown  Visual Studio Code 
+Git  GitHub  Visual Studio Code 
 Photoshop  Figma </br>
 
 <h3>💻  GitHub Analytics </h3> </br>
