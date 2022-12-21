@@ -34,8 +34,6 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
 </ul>
 
-</br>
-
 <h3>💻  GitHub Analytics </h3> </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donghyun5394&show_icons=true&theme=tokyonight)
