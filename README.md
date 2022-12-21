@@ -29,5 +29,4 @@ Photoshop  Figma </br>
   <img src="https://github-readme-stats.vercel.app/api?username=donghyun5394&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={donghyun5394})](https://github.com/anuraghazra/github-readme-stats)
