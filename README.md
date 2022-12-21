@@ -2,6 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkssud8150%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<a href="https://jungle-hornet-274.notion.site/7c95cc193de04416b5ed6f16f9c851b9" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=#000000"/></a>
+
 👋  풀스택 개발자 김동현입니다. ☺️ </br>
 ✔️  스타트업 환경에 맞는 빠른 주기 개발, 특히 자바 환경에 익숙합니다.</br>
 ✔️  명확하고 이해하기 쉬운 코딩 스타일을 만들기 위해 노력합니다. </br>
@@ -17,8 +19,6 @@
 
 <h3> 🛠  Technical Skills </h3> </br>
 
-<a href="https://jungle-hornet-274.notion.site/7c95cc193de04416b5ed6f16f9c851b9" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=#000000"/></a>
-
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
@@ -33,9 +33,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
 
-Spring  JavaScript  Node.js  Bootstrap  HTML  CSS 
-Git  GitHub  Visual Studio Code 
-Photoshop  Figma </br>
+</br>
 
 <h3>💻  GitHub Analytics </h3> </br>
 
