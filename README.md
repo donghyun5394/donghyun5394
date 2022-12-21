@@ -19,8 +19,8 @@
 
 <a href="https://jungle-hornet-274.notion.site/7c95cc193de04416b5ed6f16f9c851b9" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=#000000"/></a>
 
-<img src="https://img.shields.io/badge/Spring-#6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
 
 Spring  JavaScript  Node.js  Bootstrap  HTML  CSS 
