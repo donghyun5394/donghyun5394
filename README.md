@@ -10,10 +10,9 @@
 ✔️  저에 대해 궁금하시다면, 제 포트폴리오( NOTION )를 방문해주세요. </br>
 
 
+<a href="https://jungle-hornet-274.notion.site/7c95cc193de04416b5ed6f16f9c851b9" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=#000000"/></a>
 
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3> :hammer:  Trophy States </h2> </br>
 
@@ -36,7 +35,7 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
 </ul>
 
-<h3>💻  GitHub Analytics </h3> </br>
+<h3> 💻  GitHub Analytics </h3> </br>
 <ul>
   
 ![donghyun5394's GitHub stats](https://github-readme-stats.vercel.app/api?username=donghyun5394&show_icons=true&theme=tokyonight)
@@ -45,5 +44,9 @@
   
 </ul>
 
-<a href="https://jungle-hornet-274.notion.site/7c95cc193de04416b5ed6f16f9c851b9" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=#000000"/></a>
+<h3> 📈  Activity Graph </h3> </br>
+
+[![donghyun5394's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=donghyun5394&theme=dracula)](https://github.com/donghyun5394/github-readme-activity-graph)
+
+
 
