@@ -11,7 +11,7 @@
 
 
 <h3> 🚀  Follow me 🚀</h3>
-<a href="https://donghyun5767.notion.site/7c95cc193de04416b5ed6f16f9c851b9" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=#000000"/></a>
+&nbsp;&nbsp;<a href="https://donghyun5767.notion.site/7c95cc193de04416b5ed6f16f9c851b9" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=#000000"/></a>
 
 
 
