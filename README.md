@@ -7,8 +7,9 @@
 ✔️  스타트업 환경에 맞는 빠른 주기 개발, 특히 자바 환경에 익숙합니다.</br>
 ✔️  명확하고 이해하기 쉬운 코딩 스타일을 만들기 위해 노력합니다. </br>
 ✔️  기술을 공부하고 공유하며 함께 성장하는 삶을 지향합니다. </br>
-✔️  저에 대해 궁금하시다면, 제 포트폴리오를 방문해주세요. 
+<ul>✔️  저에 대해 궁금하시다면, 제 포트폴리오를 방문해주세요. 
 <a href="https://jungle-hornet-274.notion.site/7c95cc193de04416b5ed6f16f9c851b9" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=#000000"/></a>
+ </ul>
 
 
 
